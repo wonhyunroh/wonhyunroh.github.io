@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "HW5: UFO Sightings Visualizations"
 ---
 
